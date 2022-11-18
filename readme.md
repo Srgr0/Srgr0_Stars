@@ -4,7 +4,7 @@
 ・[リポジトリ名](リンク) - 説明
  -->
 
-# 3D
+## 3D
 ### 3D再構築
 ・[alicevision / Meshroom](https://github.com/alicevision/Meshroom) - for Windows and Linux  
 
@@ -14,17 +14,17 @@
 ・[NVlabs / instant-ngp](https://github.com/NVlabs/instant-ngp) - instant-ngp  
 <br>
 
-# Development
-## iOS
+## Development
+### iOS
 ### UI
 ・[sebjvidal / SettingsKit](https://github.com/sebjvidal/SettingsKit) - iOSの設定アプリのようなUIを作成する  
 
-## Web
-### CMS
+### Web
+#### CMS
 ・[nextcloud / server](https://github.com/nextcloud/server) - NextCloud  
 ・[writefreely / writefreely](https://github.com/writefreely/writefreely) - Writefreely  
 
-## Analytics
+#### Analytics
 ・[milesmcc / shynet](https://github.com/milesmcc/shynet)  
 ・[arp242 / goatcounter](https://github.com/arp242/goatcounter)  
 ・[offen / offen](https://github.com/offen/offen)  
@@ -32,12 +32,12 @@
 ・[plausible / analytics](https://github.com/plausible/analytics)  
 ・[PostHog / posthog](https://github.com/PostHog/posthog)  
 
-## Network
-### DNS
+### Network
+#### DNS
 ・[AdguardTeam / AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - AdGuard Home  
 <br>
 
-# Tools
+## Tools
 #### NNを使用した自動色復元
 ・[richzhang / colorization](https://github.com/richzhang/colorization)  
 
@@ -65,19 +65,19 @@
 ・[n8n-io / n8n](https://github.com/n8n-io/n8n)  
 <br>
 
-# Other
+## Other
 <!-- トップカテゴリ-->
-## GitHub Profileの管理
+### GitHub Profileの管理
 #### カスタマイズ可能なウィジェット生成
 ・[anuraghazra / github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
 #### 閲覧数確認
 ・[antonkomarev / github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)  
 
-## Stable Diffusion
+### Stable Diffusion
 #### Web UI
 ・[Sygil-Dev / sygil-webui](https://github.com/Sygil-Dev/sygil-webui)  
 
-## VRChat
+### VRChat
 #### VRCのWebサイトにいくつかの機能を追加
 ・[aplulu / vrc-friendplus](https://github.com/aplulu/vrc-friendplus)  
 <br>
