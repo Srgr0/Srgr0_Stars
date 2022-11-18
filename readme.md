@@ -110,16 +110,16 @@ LiDAR, Photogrametory, NeRF、特徴点検出、etc.
 #### パブリックなAPIのリスト
 ・[public-apis / public-apis](https://github.com/public-apis/public-apis)  
 
-### ロードマップ/ビギナーガイド
-・[skydoves / android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)  
-・[microsoft / Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)  
-・[Asabeneh / 30-Days-Of-JavaScript](Asabeneh / 30-Days-Of-JavaScript)  
-
-####　プログラミングの実践練習
-・[codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)  
-
 ### Youtube
 #### コンテンツのダウンロード
 ・[yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)  
 ・[pytube / pytube](https://github.com/pytube/pytube)  
+
+#### ロードマップ/ビギナーガイド
+・[skydoves / android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)  
+・[microsoft / Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)  
+・[Asabeneh / 30-Days-Of-JavaScript](Asabeneh / 30-Days-Of-JavaScript)  
+
+#### プログラミングの実践練習
+・[codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)  
 <br>
