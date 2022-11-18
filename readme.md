@@ -5,6 +5,7 @@
  -->
 
 ## 3D
+LiDAR, Photogrametory, NeRF、特徴点検出、etc.
 ### 3D再構築
 ・[alicevision / Meshroom](https://github.com/alicevision/Meshroom) - for Windows and Linux  
 
@@ -15,9 +16,11 @@
 <br>
 
 ## Development
+何か開発するときに使えるツール群
 ### iOS
 ### UI
-・[sebjvidal / SettingsKit](https://github.com/sebjvidal/SettingsKit) - iOSの設定アプリのようなUIを作成する  
+#### iOSの設定アプリのようなUIを作成する
+・[sebjvidal / SettingsKit](https://github.com/sebjvidal/SettingsKit)  
 
 ### Web
 #### CMS
@@ -38,6 +41,7 @@
 <br>
 
 ## Tools
+特定の用途において、高い効果を発揮するツール群
 #### NNを使用した自動色復元
 ・[richzhang / colorization](https://github.com/richzhang/colorization)  
 
@@ -60,13 +64,26 @@
 #### Shell/Terminalでの自動補完
 ・[withfig / autocomplete](https://github.com/withfig/autocomplete)  
 
+#### Webページを一ファイルにまとめて保存
+・[gildas-lormeau / SingleFile](https://github.com/gildas-lormeau/SingleFile)  
+
 ### Automation
 #### n8n - GUIベース
 ・[n8n-io / n8n](https://github.com/n8n-io/n8n)  
+
+### 連携支援
+・[ToolJet / ToolJet](https://github.com/ToolJet/ToolJet)  
+
+#### Nginxでの認証処理
+・[iij / ngx_auth_mod](https://github.com/iij/ngx_auth_mod)  
+
+#### 機密情報の管理
+・[hashicorp / vault](https://github.com/hashicorp/vault)  
 <br>
 
 ## Other
-<!-- トップカテゴリ-->
+<!--上に掲載する基準には達していないツール群-->
+<!--内容が増えたら上への移動を検討-->
 ### GitHub Profileの管理
 #### カスタマイズ可能なウィジェット生成
 ・[anuraghazra / github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
@@ -80,4 +97,30 @@
 ### VRChat
 #### VRCのWebサイトにいくつかの機能を追加
 ・[aplulu / vrc-friendplus](https://github.com/aplulu/vrc-friendplus)  
+
+### Twitter
+#### コミュニティのリスト
+・[mattn / awesome-twitter-communities](https://github.com/mattn/awesome-twitter-communities)  
+
+### AdBlock
+・[lightswitch05 / hosts](https://github.com/lightswitch05/hosts)  
+・[brave / adblock-lists](https://github.com/brave/adblock-lists)  
+・[AdguardTeam / AdguardFilters](https://github.com/AdguardTeam/AdguardFilters)  
+
+### API
+#### パブリックなAPIのリスト
+・[public-apis / public-apis](https://github.com/public-apis/public-apis)  
+
+### ロードマップ/ビギナーガイド
+・[skydoves / android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)  
+・[microsoft / Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)  
+・[Asabeneh / 30-Days-Of-JavaScript](Asabeneh / 30-Days-Of-JavaScript)  
+
+####　プログラミングの実践練習
+・[codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)  
+
+### Youtube
+#### コンテンツのダウンロード
+・[yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)  
+・[pytube / pytube](https://github.com/pytube/pytube)  
 <br>
