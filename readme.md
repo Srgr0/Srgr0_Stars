@@ -67,11 +67,10 @@ LiDAR, Photogrametory, NeRF、特徴点検出、etc.
 #### Webページを一ファイルにまとめて保存
 ・[gildas-lormeau / SingleFile](https://github.com/gildas-lormeau/SingleFile)  
 
-### Automation
-#### n8n - GUIベース
+#### Automation
 ・[n8n-io / n8n](https://github.com/n8n-io/n8n)  
 
-### 連携支援
+#### 連携支援
 ・[ToolJet / ToolJet](https://github.com/ToolJet/ToolJet)  
 
 #### Nginxでの認証処理
