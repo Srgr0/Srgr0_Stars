@@ -67,11 +67,10 @@ LiDAR, Photogrametory, NeRF、特徴点検出、etc.
 #### Webページを一ファイルにまとめて保存
 ・[gildas-lormeau / SingleFile](https://github.com/gildas-lormeau/SingleFile)  
 
-### Automation
-#### n8n - GUIベース
+#### Automation
 ・[n8n-io / n8n](https://github.com/n8n-io/n8n)  
 
-### 連携支援
+#### 連携支援
 ・[ToolJet / ToolJet](https://github.com/ToolJet/ToolJet)  
 
 #### Nginxでの認証処理
@@ -123,4 +122,12 @@ LiDAR, Photogrametory, NeRF、特徴点検出、etc.
 #### コンテンツのダウンロード
 ・[yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)  
 ・[pytube / pytube](https://github.com/pytube/pytube)  
+
+#### ロードマップ/ビギナーガイド
+・[skydoves / android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)  
+・[microsoft / Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)  
+・[Asabeneh / 30-Days-Of-JavaScript](Asabeneh / 30-Days-Of-JavaScript)  
+
+#### プログラミングの実践練習
+・[codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)  
 <br>
