@@ -115,7 +115,8 @@ LiDAR, Photogrametory, NeRF、特徴点検出、etc.
 ・[microsoft / Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)  
 ・[Asabeneh / 30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)  
 
-####　プログラミングの実践練習
+### プログラミング学習
+#### 実践練習
 ・[codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)  
 
 ### Youtube
@@ -126,7 +127,7 @@ LiDAR, Photogrametory, NeRF、特徴点検出、etc.
 #### ロードマップ/ビギナーガイド
 ・[skydoves / android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)  
 ・[microsoft / Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)  
-・[Asabeneh / 30-Days-Of-JavaScript](Asabeneh / 30-Days-Of-JavaScript)  
+・[Asabeneh / 30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)  
 
 #### プログラミングの実践練習
 ・[codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)  
