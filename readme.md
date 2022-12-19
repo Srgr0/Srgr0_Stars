@@ -18,6 +18,10 @@ LiDAR, Photogrametory, NeRF、特徴点検出、etc.
 ## Development
 何か開発するときに使えるツール群
 ### iOS
+#### ARKit Samples
+・[olucurious / Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit)  
+・[anand2nigam / AR-Quick-Look](https://github.com/anand2nigam/AR-Quick-Look)  
+・[shtnkgm / ARQuickLook](https://github.com/shtnkgm/ARQuickLook)  
 ### UI
 #### iOSの設定アプリのようなUIを作成する
 ・[sebjvidal / SettingsKit](https://github.com/sebjvidal/SettingsKit)  
@@ -37,7 +41,10 @@ LiDAR, Photogrametory, NeRF、特徴点検出、etc.
 
 ### Network
 #### DNS
-・[AdguardTeam / AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
+・[AdguardTeam / AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)  
+
+#### STUN / TURN
+・[coturn / coturn](https://github.com/coturn/coturn)  
 <br>
 
 ## Tools
@@ -78,6 +85,9 @@ LiDAR, Photogrametory, NeRF、特徴点検出、etc.
 
 #### 機密情報の管理
 ・[hashicorp / vault](https://github.com/hashicorp/vault)  
+
+#### RaspberryPiでOpenVPN/WireSharkサーバー
+・[pivpn / pivpn](https://github.com/pivpn/pivpn)  
 <br>
 
 ## Other
@@ -92,6 +102,9 @@ LiDAR, Photogrametory, NeRF、特徴点検出、etc.
 ### Stable Diffusion
 #### Web UI
 ・[Sygil-Dev / sygil-webui](https://github.com/Sygil-Dev/sygil-webui)  
+
+#### SD on Apple Silicon
+・[apple / ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)  
 
 ### VRChat
 #### VRCのWebサイトにいくつかの機能を追加
@@ -131,4 +144,8 @@ LiDAR, Photogrametory, NeRF、特徴点検出、etc.
 
 #### プログラミングの実践練習
 ・[codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)  
+
+### OSINT
+#### ツール/リンク集
+・[cipher387 / osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)  
 <br>
